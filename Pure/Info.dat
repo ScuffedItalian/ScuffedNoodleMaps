@@ -1,0 +1,57 @@
+{
+  "_version" : "2.0.0",
+  "_songName" : "Pure - Gjon's tears",
+  "_songSubName" : "French boi",
+  "_songAuthorName" : "Gjon's tears",
+  "_levelAuthorName" : "FrenchMan",
+  "_beatsPerMinute" : 104,
+  "_previewStartTime" : 12,
+  "_previewDuration" : 10,
+  "_songTimeOffset" : 0,
+  "_shuffle" : 0,
+  "_shufflePeriod" : 0.5,
+  "_coverImageFilename" : "pureunlikemybrain.png",
+  "_songFilename" : "song.ogg",
+  "_environmentName" : "TimbalandEnvironment",
+  "_allDirectionsEnvironmentName" : "GlassDesertEnvironment",
+  "_customData" : {
+    "_editors" : {
+      "_lastEditedBy" : "ChroMapper",
+      "ChroMapper" : {
+        "version" : "0.8.497"
+      }
+    }
+  },
+  "_difficultyBeatmapSets" : [
+    {
+      "_beatmapCharacteristicName" : "Standard",
+      "_difficultyBeatmaps" : [
+        {
+          "_difficulty" : "Expert",
+          "_difficultyRank" : 7,
+          "_beatmapFilename" : "ExpertStandard.dat",
+          "_noteJumpMovementSpeed" : 16,
+          "_noteJumpStartBeatOffset" : 0,
+          "_customData" : {
+            "_settings" : {
+              "_graphics" : {
+                "_smokeGraphicsSettings" : 0,
+                "_screenDisplacementEffectsEnabled" : false
+              },
+              "_playerOptions" : {
+                "_hideNoteSpawnEffect" : true
+              }
+            },
+            "_requirements" : [
+              "Chroma",
+              "Noodle Extensions"
+            ],
+            "_difficultyLabel" : "des coudes",
+            "_colorLeft" : {"r":0.33,"g":0.33,"b":0.33},
+            "_colorRight" : {"r":0.192,"g":0.398,"b":0.861}
+          }
+        }
+      ]
+    }
+  ]
+}
