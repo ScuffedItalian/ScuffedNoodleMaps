@@ -6,3 +6,4 @@ These are my trashy noodle maps to improve my scripting skills, maybe you can ta
 * Song Year Date: 2022
 * Language: French
 * NE Language: TypeScript
+* Map Production: ~5 Hours
