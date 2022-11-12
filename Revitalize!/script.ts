@@ -8,14 +8,11 @@ const map = new Difficulty("NormalStandard.dat", "HardStandard.dat");
 function RC(value: number) {
   return value / 255; 
 }
-
-
-
 function RandInt(min: number, max: number){
     return Math.floor(Math.random() * (max - min + 1) ) + min;
 }
 
-
+//Wall Stuff
 const wall2 = new Wall(192.291,7.709,4,1,3,1)
 wall2.animate.color = [[RC(255), RC(0), RC(0), 1, 0], [RC(255), RC(85), RC(0), 1, 0.1], [RC(255), RC(187), RC(0), 1, 0.2], [RC(43), RC(255), RC(5), 1, 0.3], [RC(5), RC(68), RC(255), 1, 0.4], [RC(80), RC(5), RC(255), 1, 0.5], [RC(87), RC(0), RC(173), 1, 0.6], [RC(62), RC(2), RC(117), 1, 0.7], [RC(255), RC(0), RC(0), 1, 0.8], [RC(255), RC(0), RC(0), 1, 0.9], [RC(255), RC(0), RC(0), 1, 1]]
 wall2.animate.dissolve = [[1, 0], [1, 0.1], [1, 0.2], [1, 0.3], [1, 0.4], [1, 0.5], [1, 0.6], [1, 0.7], [1, 0.8], [0.5, 0.9], [0, 1]]
@@ -30,14 +27,6 @@ wall3.push();
 
 
 //For loops and stuff OUI OUI BONJOUR 
-
-let dur2 = 160
-let dur = 144 - 128 
-let speed = 1 // walls per beat 
-
-
-
-
 
 
 
@@ -73,14 +62,14 @@ for(let i = 0; i < 69; i++){
 }
 
 
-console.log(map.rawEnvironment)
 
 
 
 
 
 
-//Functions
+
+//Note mods
 
 notesBetween(201, 232, (note) => {
   //Right 2 lanes
@@ -258,7 +247,7 @@ notesBetween(81, 96, (note) => {
 notesBetween(98.2, 100, (note) => {
     note.animate.dissolve =  [[1, 0], [0.5, 0.5], [0.9, 1]]
 }) 
-//Funcs
+//map setup
 MapL.despawn("Contains", [
     "TimbalandLogo",
     "BackColumns",
