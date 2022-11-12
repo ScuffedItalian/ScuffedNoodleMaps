@@ -1,0 +1,50 @@
+{
+  "_version" : "2.0.0",
+  "_songName" : "Revitalize!",
+  "_songSubName" : "",
+  "_songAuthorName" : "Convexity",
+  "_levelAuthorName" : "FrenchGuy",
+  "_beatsPerMinute" : 70,
+  "_previewStartTime" : 12,
+  "_previewDuration" : 10,
+  "_songTimeOffset" : 0,
+  "_shuffle" : 0,
+  "_shufflePeriod" : 0.5,
+  "_coverImageFilename" : "cover.png",
+  "_songFilename" : "song.ogg",
+  "_environmentName" : "TimbalandEnvironment",
+  "_allDirectionsEnvironmentName" : "GlassDesertEnvironment",
+  "_customData" : {
+    "_editors" : {
+      "_lastEditedBy" : "ChroMapper",
+      "ChroMapper" : {
+        "version" : "0.8.0"
+      }
+    }
+  },
+  "_difficultyBeatmapSets" : [
+    {
+      "_beatmapCharacteristicName" : "Standard",
+      "_difficultyBeatmaps" : [
+        {
+          "_difficulty" : "Hard",
+          "_difficultyRank" : 5,
+          "_beatmapFilename" : "HardStandard.dat",
+          "_noteJumpMovementSpeed" : 16,
+          "_noteJumpStartBeatOffset" : 0,
+          "_customData" : {
+            "_requirements" : [
+              "Chroma"
+            ],
+            "_settings" : {
+              "_playerOptions" : {
+                "_noTextsAndHuds" : true
+              }
+            },
+            "_difficultyLabel" : "V3 On Top"
+          }
+        }
+      ]
+    }
+  ]
+}
