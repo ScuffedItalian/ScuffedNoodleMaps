@@ -8,7 +8,7 @@ These are my trashy noodle maps to improve my scripting skills, maybe you can ta
 * NE Language: TypeScript
 * Map Production: ~5 Hours
 
-#Revitalize! Song Info
+# Revitalize! Song Info
 * BPM: 70
 * Author: Convexity
 * Song: Revitalize!
