@@ -1,4 +1,4 @@
-# My Scuffed ass noodle maps
+# My Scuffed Noodle Maps
 These are my trashy noodle maps to improve my scripting skills, maybe you can take reference or get inspiration from looking at these?
 # Pure Song Info
 * BPM: 104
@@ -16,3 +16,13 @@ These are my trashy noodle maps to improve my scripting skills, maybe you can ta
 * Language: English
 * Map Production: ~3 days
 * Additional Notes: Colors... COLORS. COLLLLOORRRSSSS....
+
+# Rivals
+* BPM: 75
+* Author: Creo
+* Song: Rival
+* NJS: This varys, majority of the map its ~12
+* Language: English
+* Production: a weel ;-;
+* NE Language: TS
+* Additional notes: Good luck buddy

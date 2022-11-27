@@ -1,0 +1,44 @@
+{
+  "_version" : "2.0.0",
+  "_songName" : "Rivals",
+  "_songSubName" : "Expert+++",
+  "_songAuthorName" : "Creo",
+  "_levelAuthorName" : "ScuffedItalian",
+  "_beatsPerMinute" : 75,
+  "_previewStartTime" : 12,
+  "_previewDuration" : 10,
+  "_songTimeOffset" : 0,
+  "_shuffle" : 0,
+  "_shufflePeriod" : 0.5,
+  "_coverImageFilename" : "cover.png",
+  "_songFilename" : "song.ogg",
+  "_environmentName" : "RocketEnvironment",
+  "_allDirectionsEnvironmentName" : "GlassDesertEnvironment",
+  "_customData" : {
+    "_editors" : {
+      "_lastEditedBy" : "ChroMapper",
+      "ChroMapper" : {
+        "version" : "0.8.0"
+      }
+    }
+  },
+  "_difficultyBeatmapSets" : [
+    {
+      "_beatmapCharacteristicName" : "Standard",
+      "_difficultyBeatmaps" : [
+        {
+          "_difficulty" : "ExpertPlus",
+          "_difficultyRank" : 9,
+          "_beatmapFilename" : "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed" : 12,
+          "_noteJumpStartBeatOffset" : 0,
+          "_customData" : {
+            "_difficultyLabel" : "Expert++",
+            "_colorRight" : {"r":1,"g":0,"b":0},
+            "_colorLeft" : {"r":1,"g":0.493,"b":0}
+          }
+        }
+      ]
+    }
+  ]
+}
